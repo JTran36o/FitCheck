@@ -1,0 +1,33 @@
+{
+  "populateClothes":
+  [
+    {"Outerwear": "",
+        "Top": "Black Shirt",
+        "Bottom": "Blue Shorts",
+        "Socks": "Ankle Socks",
+        "Shoes": "Adidas White Sneakers",
+        "Accessories": "Apple Watch",
+        "Outfit": "outfit1.jpeg"},
+    {"Top": "Black Shirt",
+        "Bottom": "Blue Shorts",
+        "Socks": "Ankle Socks",
+        "Shoes": "Adidas White Sneakers",
+        "Accessories": "Apple Watch"},
+    {"Top": "Black Shirt",
+        "Bottom": "Blue Shorts",
+        "Socks": "Ankle Socks",
+        "Shoes": "Adidas White Sneakers",
+        "Accessories": "Apple Watch"},
+    {"Top": "Black Shirt",
+        "Bottom": "Blue Shorts",
+        "Socks": "Ankle Socks",
+        "Shoes": "Adidas White Sneakers",
+        "Accessories": "Apple Watch"},
+    {"Top": "Black Shirt",
+        "Bottom": "Blue Shorts",
+        "Socks": "Ankle Socks",
+        "Shoes": "Adidas White Sneakers",
+        "Accessories": "Apple Watch"}
+    ]
+  
+}
