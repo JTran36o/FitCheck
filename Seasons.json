@@ -1,0 +1,9 @@
+{
+  "populateSeasons":
+  [
+    {"Name": "Fall"},
+    {"Name": "Winter"},
+    {"Name": "Spring"},
+    {"Name": "Summer"}
+  
+}
