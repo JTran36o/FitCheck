@@ -1,6 +1,5 @@
 {
-  "populateClothes":
-  [
+  "populateClothes": [
     {
       "Outerwear": "Red Gap YZY Hoodie",
       "Top": "Grey Uniqlo Oversized Shirt",
@@ -11,41 +10,40 @@
       "Outfit": ""
     },
     {
-      "Outerwear": "Red Flannel Shirt"
+      "Outerwear": "Red Flannel Shirt",
       "Top": "Black Essentials Shirt",
       "Bottom": "Blue Uniqlo Jeans",
       "Socks": "Black Pair of Theives",
       "Shoes": "Adidas White Sneakers",
-      "Accessories": "Apple Watch"
+      "Accessories": "Apple Watch",
       "Outfit": ""
     },
     {
-      "Outerwear": "Red Flannel Shirt"
+      "Outerwear": "Red Flannel Shirt",
       "Top": "Black Shirt",
       "Bottom": "Blue Shorts",
       "Socks": "Ankle Socks",
       "Shoes": "Adidas White Sneakers",
-      "Accessories": "Apple Watch"
+      "Accessories": "Apple Watch",
       "Outfit": ""
     },
     {
-      "Outerwear": "Red Flannel Shirt"
+      "Outerwear": "Red Flannel Shirt",
       "Top": "Black Shirt",
       "Bottom": "Blue Shorts",
       "Socks": "Ankle Socks",
       "Shoes": "Adidas White Sneakers",
-      "Accessories": "Apple Watch"
+      "Accessories": "Apple Watch",
       "Outfit": ""
     },
     {
-      "Outerwear": "Red Flannel Shirt"
+      "Outerwear": "Red Flannel Shirt",
       "Top": "Black Shirt",
       "Bottom": "Blue Shorts",
       "Socks": "Ankle Socks",
       "Shoes": "Adidas White Sneakers",
-      "Accessories": "Apple Watch"
+      "Accessories": "Apple Watch",
       "Outfit": ""
-    },
-   ]
-  
+    }
+  ]
 }
