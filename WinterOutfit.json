@@ -1,1 +1,95 @@
-
+{
+  "populateClothes": [
+    {
+      "Outerwear": "Red Gap YZY Hoodie",
+      "Top": "Grey Uniqlo Oversized Shirt",
+      "Bottom": "Blue Uniqlo Jeans",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Black Converse",
+      "Accessories": "",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Denim Jacket",
+      "Top": "Black Long Sleeve Shirt",
+      "Bottom": "Blue Uniqlo Jeans",
+      "Socks": "White Pair of Thieves",
+      "Shoes": "White Adidas Continental",
+      "Accessories": "",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Blue Denim Jacket",
+      "Top": "Brown Uniqlo Oversized Shirt",
+      "Bottom": "Black Kinjaz Jeans",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Black Converse",
+      "Accessories": "",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Red Gap YZY Hoodie",
+      "Top": "Black Long Sleeve Shirt",
+      "Bottom": "Black Kinjaz Jeans",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Black Converse",
+      "Accessories": "",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Boda Skins Leather Jacket",
+      "Top": "Grey Uniqlo Oversized Shirt",
+      "Bottom": "Black Outlier Pants",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Black Converse",
+      "Accessories": "",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Boda Skins Leather Jacket",
+      "Top": "Black ESNTLS Shirt",
+      "Bottom": "Black Outlier Pants",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Black Converse",
+      "Accessories": "",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Pink Sweater",
+      "Top": "Black Long Sleeve Shirt",
+      "Bottom": "Blue Uniqlo Jeans",
+      "Socks": "White Pair of Thieves",
+      "Shoes": "Cream White Yeezy 250",
+      "Accessories": "",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Brown Overcoat",
+      "Top": "Black Uniqlo Turtleneck",
+      "Bottom": "Black Outlier Pants",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Brown Dress Shoes",
+      "Accessories": "Glasses",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Denim Jacket",
+      "Top": "Black ESNTLS Shirt",
+      "Bottom": "Black Outlier Pants",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Black Converse",
+      "Accessories": "Black Groodo Dad Hat",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Red Gap YZY Hoodie",
+      "Top": "Pink Uniqlo Oversized Shirt",
+      "Bottom": "Black Outlier Pants",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Black Converse",
+      "Accessories": "Black NF Real Hat",
+      "Outfit": ""
+    },
+    
+  ]
+}
