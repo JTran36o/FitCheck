@@ -1,13 +1,95 @@
 {
   "populateClothes": [
     {
-      "Outerwear": "",
+      "Outerwear": "Red Gap YZY Hoodie",
       "Top": "Grey Uniqlo Oversized Shirt",
       "Bottom": "Blue Uniqlo Jeans",
       "Socks": "Black Pair of Thieves",
-      "Shoes": "Grey Yeezy 700",
+      "Shoes": "Cream White Yeezy 350",
       "Accessories": "",
-      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/outfit4.jpeg"
-    }
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Red Flannel",
+      "Top": "Black ESNTLS Shirt",
+      "Bottom": "Blue Uniqlo Jeans",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "White Adidas Continental",
+      "Accessories": "",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Blue Denim Jacket",
+      "Top": "Brown Uniqlo Oversized Shirt",
+      "Bottom": "Black Kinjaz Jeans",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Cream White Yeezy 350",
+      "Accessories": "",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Pink Sweater",
+      "Top": "Grey Uniqlo Oversized Shirt",
+      "Bottom": "Black Kinjaz Jeans",
+      "Socks": "White Pair of Thieves",
+      "Shoes": "White Adidas Continental",
+      "Accessories": "Black NF Real Hat",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Boda Skins Leather Jacket",
+      "Top": "Grey Uniqlo Oversized Shirt",
+      "Bottom": "Black Outlier Pants",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Black Converse",
+      "Accessories": "",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Boda Skins Leather Jacket",
+      "Top": "Black ESNTLS Shirt",
+      "Bottom": "Black Outlier Pants",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Black Converse",
+      "Accessories": "",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "",
+      "Top": "Grey Uniqlo Oversiezed Shirt",
+      "Bottom": "Blue Uniqlo Jeans",
+      "Socks": "Ankle Socks",
+      "Shoes": "Grey Yeezy 700",
+      "Accessories": "Blue Monster's Inc Dad Hat",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "",
+      "Top": "Brown Uniqlo Oversized Shirt",
+      "Bottom": "Black Kinjaz Jeans",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Black Converse",
+      "Accessories": "",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Denim Jacket",
+      "Top": "Black ESNTLS Shirt",
+      "Bottom": "Black Outlier Pants",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Black Converse",
+      "Accessories": "Black Groodo Dad Hat",
+      "Outfit": ""
+    },
+    {
+      "Outerwear": "Red Gap YZY Hoodie",
+      "Top": "Pink Uniqlo Oversized Shirt",
+      "Bottom": "Black Outlier Pants",
+      "Socks": "Black Pair of Thieves",
+      "Shoes": "Cream White Yeezy 250",
+      "Accessories": "Black NF Real Hat",
+      "Outfit": ""
+    },
+    
   ]
 }
