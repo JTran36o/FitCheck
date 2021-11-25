@@ -11,75 +11,75 @@
     },
     {
       "Outerwear": "",
-      "Top": "",
-      "Bottom": "",
-      "Socks": "",
-      "Shoes": "",
-      "Accessories": "",
-      "Outfit": ""
-    },
-    {
-      "Outerwear": "",
-      "Top": "",
-      "Bottom": "",
-      "Socks": "",
-      "Shoes": "",
-      "Accessories": "",
-      "Outfit": ""
-    },
-    {
-      "Outerwear": "Pink Sweater",
-      "Top": "Grey Uniqlo Oversized Shirt",
+      "Top": "Pink Oversized Uniqlo Shirt",
       "Bottom": "Black Kinjaz Jeans",
       "Socks": "White Pair of Thieves",
+      "Shoes": "Cream White Yeezy 350",
+      "Accessories": "Black Groodo Dad Hat",
+      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/pink_black.jpeg"
+    },
+    {
+      "Outerwear": "",
+      "Top": "Grey Oversized Uniqlo Shirt",
+      "Bottom": "Black Kinjaz Jeans",
+      "Socks": "White Pair of Thieves",
+      "Shoes": "Grey Yeezy 700",
+      "Accessories": "",
+      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/grey_black.jpeg"
+    },
+    {
+      "Outerwear": "",
+      "Top": "Grey Uniqlo Oversized Shirt",
+      "Bottom": "Grey ESNTLS Sweat Shorts",
+      "Socks": "Ankle Socks",
       "Shoes": "White Adidas Continental",
-      "Accessories": "Black NF Real Hat",
-      "Outfit": ""
+      "Accessories": "",
+      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/grey_grey.jpeg"
     },
     {
       "Outerwear": "",
-      "Top": "",
-      "Bottom": "",
-      "Socks": "",
-      "Shoes": "",
+      "Top": "Pink Uniqlo Oversized Shirt",
+      "Bottom": "Grey ESNTLS Sweat Shorts",
+      "Socks": "Ankle Socks",
+      "Shoes": "Cream White Yeezy 350",
       "Accessories": "",
-      "Outfit": ""
+      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/pink_grey.jpeg"
     },
     {
       "Outerwear": "",
-      "Top": "",
-      "Bottom": "",
-      "Socks": "",
-      "Shoes": "",
+      "Top": "Grey Uniqlo Oversized Shirt",
+      "Bottom": "Blue Uniqlo Shorts",
+      "Socks": "Ankle Socks",
+      "Shoes": "White Adidas Continental",
       "Accessories": "",
-      "Outfit": ""
+      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/grey_blue.jpeg"
     },
     {
       "Outerwear": "",
       "Top": "Grey Uniqlo Oversiezed Shirt",
-      "Bottom": "Blue Uniqlo Jeans",
+      "Bottom": "Black Kinjaz Jeans",
       "Socks": "Ankle Socks",
-      "Shoes": "Grey Yeezy 700",
+      "Shoes": "Cream White Yeezy 350",
       "Accessories": "Blue Monster's Inc Dad Hat",
-      "Outfit": ""
+      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/gery_ankle.jpeg"
     },
     {
       "Outerwear": "",
       "Top": "Brown Uniqlo Oversized Shirt",
       "Bottom": "Black Kinjaz Jeans",
-      "Socks": "Black Pair of Thieves",
-      "Shoes": "Black Converse",
+      "Socks": "White Pair of Thieves",
+      "Shoes": "White Adidas Continental",
       "Accessories": "",
-      "Outfit": ""
+      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/brown.jpeg"
     },
     {
       "Outerwear": "",
-      "Top": "",
-      "Bottom": "",
-      "Socks": "",
-      "Shoes": "",
+      "Top": "Pink Uniqlo Oversized Shirt",
+      "Bottom": "Blue Uniqlo Shorts",
+      "Socks": "Ankle Socks",
+      "Shoes": "Grey Yeezy 700",
       "Accessories": "",
-      "Outfit": ""
+      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/pink_blue.jpeg"
     },
     {
       "Outerwear": "Red Gap YZY Hoodie",
@@ -88,7 +88,7 @@
       "Socks": "Black Pair of Thieves",
       "Shoes": "Cream White Yeezy 250",
       "Accessories": "Black NF Real Hat",
-      "Outfit": ""
+      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/red_pink.jpeg"
     },
     
   ]
