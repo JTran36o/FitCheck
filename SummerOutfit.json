@@ -1,13 +1,13 @@
 {
   "populateClothes": [
     {
-      "Outerwear": "Red Gap YZY Hoodie",
-      "Top": "Grey Uniqlo Oversized Shirt",
-      "Bottom": "Blue Uniqlo Jeans",
-      "Socks": "Black Pair of Thieves",
+      "Outerwear": "",
+      "Top": "White ESNTLS Sleeveless Shirt",
+      "Bottom": "Blue Uniqlo Shorts",
+      "Socks": "Ankle Socks",
       "Shoes": "Cream White Yeezy 350",
       "Accessories": "",
-      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/red_grey.jpeg"
+      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/white_blue.jpeg"
     },
     {
       "Outerwear": "",
@@ -82,13 +82,13 @@
       "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/pink_blue.jpeg"
     },
     {
-      "Outerwear": "Red Gap YZY Hoodie",
-      "Top": "Pink Uniqlo Oversized Shirt",
-      "Bottom": "Black Outlier Pants",
-      "Socks": "Black Pair of Thieves",
-      "Shoes": "Cream White Yeezy 250",
-      "Accessories": "Black NF Real Hat",
-      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/red_pink.jpeg"
+      "Outerwear": "",
+      "Top": "White ESNTLS Sleeveless Shirt",
+      "Bottom": "Grey ESNTLS Sweat Short",
+      "Socks": "Ankle Socks",
+      "Shoes": "Cream White Yeezy 350",
+      "Accessories": "Black Groodo Dad Hat",
+      "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/white_grey.jpeg"
     },
     
   ]
