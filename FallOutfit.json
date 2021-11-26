@@ -6,7 +6,7 @@
       "Bottom": "Blue Uniqlo Jeans",
       "Socks": "Black Pair of Thieves",
       "Shoes": "Cream White Yeezy 350",
-      "Accessories": "",
+      "Accessories": "None",
       "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/red_grey.jpeg"
     },
     {
@@ -15,7 +15,7 @@
       "Bottom": "Blue Uniqlo Jeans",
       "Socks": "Black Pair of Thieves",
       "Shoes": "White Adidas Continental",
-      "Accessories": "",
+      "Accessories": "None",
       "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/flannel.jpeg"
     },
     {
@@ -24,7 +24,7 @@
       "Bottom": "Black Kinjaz Jeans",
       "Socks": "White Pair of Thieves",
       "Shoes": "Cream White Yeezy 350",
-      "Accessories": "",
+      "Accessories": "None",
       "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/denim_brown.jpeg"
     },
     {
@@ -33,7 +33,7 @@
       "Bottom": "Black Kinjaz Jeans",
       "Socks": "Black Pair of Thieves",
       "Shoes": "Black Converse",
-      "Accessories": "",
+      "Accessories": "None",
       "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/red_longblack.jpeg"
     },
     {
@@ -42,7 +42,7 @@
       "Bottom": "Black Outlier Pants",
       "Socks": "Black Pair of Thieves",
       "Shoes": "Black Converse",
-      "Accessories": "",
+      "Accessories": "None",
       "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/leather_grey.jpeg"
     },
     {
@@ -51,11 +51,11 @@
       "Bottom": "Black Outlier Pants",
       "Socks": "Black Pair of Thieves",
       "Shoes": "Black Converse",
-      "Accessories": "",
+      "Accessories": "None",
       "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/leather_black.jpeg"
     },
     {
-      "Outerwear": "",
+      "Outerwear": "None",
       "Top": "Grey Uniqlo Oversiezed Shirt",
       "Bottom": "Blue Uniqlo Jeans",
       "Socks": "Black Pair of Thieves",
@@ -64,12 +64,12 @@
       "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/grey.jpeg"
     },
     {
-      "Outerwear": "",
+      "Outerwear": "None",
       "Top": "Brown Uniqlo Oversized Shirt",
       "Bottom": "Black Kinjaz Jeans",
       "Socks": "White Pair of Thieves",
       "Shoes": "White Adidas Continental",
-      "Accessories": "",
+      "Accessories": "None",
       "Outfit": "https://raw.githubusercontent.com/JTran36o/FitCheck/main/Outfits/brown.jpeg"
     },
     {
